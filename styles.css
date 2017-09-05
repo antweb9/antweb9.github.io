@@ -1,0 +1,15 @@
+body {
+	font-family: 'Inconsolata', monospace;
+}
+
+h2 {
+	margin-top: 32px;
+}
+
+p {
+	font-size: 18px;
+}
+
+li {
+	font-size: 18px;
+}
