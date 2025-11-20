@@ -53,23 +53,7 @@ export default function Home() {
             Aligner Junction
           </Link>
           , where we&apos;re revolutionizing the dental aligner experience for
-          dentists and reviewers (available on{" "}
-          <Link
-            href="https://play.google.com/store/apps/details?id=com.app.aligner_junction"
-            target="_blank"
-            className="text-blue-600 hover:underline"
-          >
-            Android
-          </Link>{" "}
-          and{" "}
-          <Link
-            href="https://apps.apple.com/us/app/aligner-junction/id6741702938"
-            target="_blank"
-            className="text-blue-600 hover:underline"
-          >
-            iOS
-          </Link>
-          ), and{" "}
+          dentists and reviewers, and{" "}
           <Link
             href="https://www.dotweave.in/"
             target="_blank"
