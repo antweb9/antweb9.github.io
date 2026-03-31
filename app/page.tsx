@@ -36,6 +36,21 @@ export default function Home() {
           their technology infrastructure.
           <br />
           <br />
+          I&apos;m the CTO at{" "}
+          <Link
+            href="https://www.thehealthcolab.com/"
+            target="_blank"
+            className="text-blue-600 hover:underline"
+          >
+            The Health Co-Lab
+          </Link>
+          , a Service-Disabled Veteran-Owned Small Business that combines
+          policy, operations, and technology expertise to strengthen healthcare
+          partners. We build SaaS solutions, leverage deep Medicaid policy
+          expertise, and develop training programs to address healthcare
+          challenges.
+          <br />
+          <br />
           I run{" "}
           <Link
             href="https://www.smritisspecial.in/"
@@ -63,6 +78,37 @@ export default function Home() {
           </Link>
           , where we empower sales with data intelligence and transform sales
           processes with actionable insights and smart automation.
+          <br />
+          <br />
+          I created{" "}
+          <Link
+            href="https://play.google.com/store/apps/details?id=com.vocaler.vocaler&hl=en_IN"
+            target="_blank"
+            className="text-blue-600 hover:underline"
+          >
+            Vocaler
+          </Link>
+          , an ear training app for Indian classical music that connects western
+          notes with Indian swaras. It features a swara-aware tuner, six game
+          modes including pitch training, note matching, and raga practice for
+          both Hindustani &amp; Carnatic ragas, along with weekly competitions
+          and leaderboards. Available on{" "}
+          <Link
+            href="https://apps.apple.com/in/app/vocaler/id6503690498"
+            target="_blank"
+            className="text-blue-600 hover:underline"
+          >
+            iOS
+          </Link>{" "}
+          &amp;{" "}
+          <Link
+            href="https://play.google.com/store/apps/details?id=com.vocaler.vocaler&hl=en_IN"
+            target="_blank"
+            className="text-blue-600 hover:underline"
+          >
+            Android
+          </Link>
+          .
           <br />
           <br />
           Before this, I worked at{" "}
